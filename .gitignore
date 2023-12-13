@@ -9,3 +9,10 @@ submission.csv
 model.h5
 model.h5
 model.keras
+feather-in-focus/attributes.npy
+feather-in-focus/class_names.npy
+feather-in-focus/attributes.txt
+*.jpg
+feather-in-focus/test_images_path.csv
+feather-in-focus/test_images_sample.csv
+feather-in-focus/train_images.csv
